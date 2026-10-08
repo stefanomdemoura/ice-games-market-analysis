@@ -1,6 +1,7 @@
 # ICE — análise de mercado de games
+Projeto de análise de dados voltado à identificação de padrões de vendas no mercado de videogames e à construção de recomendações para uma campanha comercial de 2017, desenvolvido na formação de Analista de Dados da TripleTen.
 
-Projeto de análise de dados voltado à identificação de padrões de vendas no mercado de videogames e à construção de recomendações para uma campanha comercial de 2017.
+**English summary.** Analysis of historical video game sales to identify the platforms, genres and regional markets with the most potential for a 2017 campaign, covering platform life cycles, recent trends, review scores and regional profiles for North America, Europe and Japan. PS4 and Xbox One showed the strongest recent trend; critic scores had a small positive association with sales, while user scores had none. Hypothesis tests found a difference in average user ratings between Action and Sports, but not between Xbox One and PC. Project developed as part of TripleTen's Data Analyst program.
 
 ## Objetivo
 
